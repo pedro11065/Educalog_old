@@ -1,0 +1,19 @@
+
+//Matricula: 00001//
+
+CPF: 2222222222
+Nome: Pedro Henrique Silva Quixabeira
+Id_curso: 2
+Nome_curso: Analise e Desenvolvimento de Sistemas
+Celular: 13974256075
+D_nascimento: 13/03/2006
+---------------------------------------------------------
+//Matricula: 00002//
+
+CPF: 1111111111
+Nome: Daniela Maluy Da Silva
+Id_curso: 1
+Nome_curso: Sistemas para Internet
+Celular: 991376136
+D_nascimento: 20/03/1972
+---------------------------------------------------------
