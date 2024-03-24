@@ -5,4 +5,4 @@ O Educalog é um projeto criado por mim visando simular as execuções realizada
 
 Por fim, quero ressaltar críticas construtivas são sempre bem-vindas, e com certeza vão me auxiliar no desenvolvimento do meu projeto. Dês de já obrigado!
 
-<img width="266" alt="educalog" src="https://github.com/pedro11065/Educalog/assets/83504805/00ccb7f2-f48e-43fe-88ac-a3fd8bc08330">
+<img width="1080" alt="educalog" src="https://github.com/pedro11065/Educalog/assets/83504805/00ccb7f2-f48e-43fe-88ac-a3fd8bc08330">
