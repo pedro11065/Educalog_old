@@ -1,4 +1,5 @@
 #VERSÃO ALPHA DO EDUCALOG → GERENCIADOR DE ALUNOS
+#by Pedro Quix
 
 import os
 #next update → Caso eu saia da operação durante a adição de um aluno novo, impedir que informações sejam registradas erroniamente.
