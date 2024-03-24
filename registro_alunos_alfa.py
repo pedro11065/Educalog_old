@@ -61,13 +61,13 @@ while True: #Looping
             while True:
                 limpar_terminal()
                 
-                print("") 
+                  
                 print("░█▀▀▀ ░█▀▀▄ ░█─░█ ░█▀▀█ ─█▀▀█ ░█─── ░█▀▀▀█ ░█▀▀█")
                 print("░█▀▀▀ ░█─░█ ░█─░█ ░█─── ░█▄▄█ ░█─── ░█──░█ ░█─▄▄")
                 print("░█▄▄▄ ░█▄▄▀ ─▀▄▄▀ ░█▄▄█ ░█─░█ ░█▄▄█ ░█▄▄▄█ ░█▄▄█")
  
                 print
-                tarefa = input("\n Como podemos lhe ajudar?\n\n 1 - Adicionar aluno \n 2 - Buscar aluno \n 3 - Excluir aluno \n 4 - Editar aluno \n 5 - Listar alunos\n:")
+                tarefa = input("\nComo podemos lhe ajudar?\n\n1 - Adicionar aluno \n2 - Buscar aluno \n3 - Excluir aluno \n4 - Editar aluno \n5 - Listar alunos\n:")
             
                 if tarefa == "1": #ADICIONAR
 
