@@ -1,6 +1,4 @@
 #VERSÃO ALPHA DO EDUCALOG → GERENCIADOR DE ALUNOS
-#by Pedro Quix
-
 
 import os
 #next update → Caso eu saia da operação durante a adição de um aluno novo, impedir que informações sejam registradas erroniamente.
@@ -63,7 +61,10 @@ while True: #Looping
             while True:
                 limpar_terminal()
                 
-                print("  ＥＤＵＣＡＬＯＧ")
+                  
+                print("░█▀▀▀ ░█▀▀▄ ░█─░█ ░█▀▀█ ─█▀▀█ ░█─── ░█▀▀▀█ ░█▀▀█")
+                print("░█▀▀▀ ░█─░█ ░█─░█ ░█─── ░█▄▄█ ░█─── ░█──░█ ░█─▄▄")
+                print("░█▄▄▄ ░█▄▄▀ ─▀▄▄▀ ░█▄▄█ ░█─░█ ░█▄▄█ ░█▄▄▄█ ░█▄▄█")
  
                 print
                 tarefa = input("\nComo podemos lhe ajudar?\n\n1 - Adicionar aluno \n2 - Buscar aluno \n3 - Excluir aluno \n4 - Editar aluno \n5 - Listar alunos\n:")
