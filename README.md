@@ -6,8 +6,8 @@ O Educalog é um projeto criado por mim visando simular as execuções realizada
 De pouco em pouco, o projeto vem crescendo mais e mais, talvez um dia deixando de ser somente um projeto e virando algo real que possa ajudar diversas escolas e faculdades no gerenciamento de seus alunos..tudo é possível!!!
 
 Por vir:
-- Quick Start → Como usar
-- Documentação → Mapa de versões, funcionamento e lógica.
+- Quick Start
+- Documentação
 - 
 Por fim, quero ressaltar críticas construtivas são sempre bem-vindas, e com certeza vão me auxiliar no desenvolvimento do meu projeto. Dês de já obrigado!
 
